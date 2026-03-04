@@ -163,6 +163,8 @@ All without you writing a single test.
 
 ## CI/CD — Automated Testing on Pull Requests
 
+> 🚧 Coming soon — not yet configured.
+
 Tests run automatically on every Pull Request via GitHub Actions. The workflow:
 
 1. Triggers on every PR to `main`
